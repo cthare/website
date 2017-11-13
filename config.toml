@@ -1,4 +1,4 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://cthare.github.io/index.html/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Colin Hare's Portfolio"
 copyright = "&copy; 2017 Colin Hare"
 theme = "academic"
@@ -49,7 +49,8 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail@colinhare.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Boynton Beach, FL"
+  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"

@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2017-11-12"
 
 # Project title.
-title = "Deep Learning"
+title = "Raspberry Spy"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Personal project using a Raspberry Pi and the camera module"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "rsp-spy.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["personal"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
