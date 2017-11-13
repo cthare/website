@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Colin Hare is an IT specialist currently employed at ExamSoft. He is currently finishing up his degree at Troy University part time while gaining real world experience at his current employer. 
+Colin Hare is an IT specialist currently employed at ExamSoft. At this time he is currently finishing up his bachelor's degree at Troy University part time while gaining real world experience at his current employer.
