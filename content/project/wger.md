@@ -16,7 +16,7 @@ image_preview = "wger-logo.png"
 tags = ["open-source"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/wger-project/wger"
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,5 +30,5 @@ caption = "wger's logo"
 
 My minor contribution to [wger](https://github.com/wger-project/wger) was my first contribution to an open source project. I found the project through the site [Code Triage](https://www.codetriage.com) which helps open source projects find assistance.
 
-I submitted code to fix (issue #241 'Generate nutrition plans with generator')[https://github.com/wger-project/wger/issues/241] which generated dummy data to use when testing the application. The experience of being able to help someone with their project and also having their guidance along the way was simply fun. I look forward to working on other projects in the future.
+I submitted code to fix [issue #241 'Generate nutrition plans with generator'](https://github.com/wger-project/wger/issues/241) which generated dummy data to use when testing the application. The experience of being able to help someone with their project and also having their guidance along the way was simply fun. I look forward to working on other projects in the future.
 
