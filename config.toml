@@ -1,7 +1,7 @@
 baseurl = "https://www.colinhare.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Colin Hare's Portfolio"
 copyright = "&copy; 2018 Colin Hare"
-theme = "academic"
+theme = "beautifulhugo"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mail@colinhare.com"
-  address = "Boynton Beach, FL"
+  address = "Delray Beach, FL"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -216,7 +216,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin-square"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/colin-hare-168230aa/"
+    link = "https://www.linkedin.com/in/colin-hare/"
 
   [[params.social]]
     icon = "github"
