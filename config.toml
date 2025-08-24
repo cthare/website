@@ -1,6 +1,6 @@
 baseurl = "https://www.colinhare.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Colin Hare's Portfolio"
-copyright = "&copy; 2018 Colin Hare"
+copyright = "&copy; 2025 Colin Hare"
 theme = "beautifulhugo"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,10 +9,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+#googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -271,3 +271,7 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+
+[[module.imports]]
+  path = "beautifulhugo"
