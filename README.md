@@ -5,4 +5,4 @@ Portfolio site built using [HUGO](https://gohugo.io/)
 
 ### Required Packages ###
 
-* hugo v0.92.2+
+* hugo v0.148.2+
