@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Colin Hare"
-  role = "IT Specialist"
+  role = "Site Reliability Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -216,12 +216,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin-square"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/colin-hare/"
+    link = "https://www.linkedin.com/in/colinhare/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/cthare"
+    link = "https://www.github.com/cthare"
 
 
 # Navigation Links
